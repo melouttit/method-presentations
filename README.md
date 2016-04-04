@@ -13,6 +13,6 @@
   <li><strong>resize</strong> - Kathryn</li>
   <li><strong>scroll</strong> - Kazi</li>
   <li><strong>slideUp/slideDown</strong> - Zameena</li>
+  <li>submit - Tanvi</li>
   <li><strong>toggle</strong> - Daniela</li>
-  <!-- <li>submit</li> -->
 </ul>
